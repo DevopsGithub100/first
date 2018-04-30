@@ -1,0 +1,24 @@
+1)  What do you mean by SCM / Version Control / Repository ??
+2)  What are the tools related to SCM??
+3)   Life Cycle of SVN & GIT ??
+4)   SVN VS GIT ??
+5)   What is git hub ??
+6)   Difference between SVN , GIT & Git Hub ??
+7)   Why we need to use Commit & Push in Git (Life Cycle) ??
+8)   What is Sha-Id??
+	9)   When Developers use Pull Command in Git??
+	10)  What happens when developers Clone in Git ??
+	11)  What happens when we check out in Svn ??
+	12) What happens when we push 2 files using Git ??
+	(Data will be created, Sha-id will be created & logs will be generated)
+	13) How do you migrate from Git to Github ??
+	14) How the client system will access the Github repository ??
+		(A) Suppose, if the client system uses Windows OS ??
+			(Using Git Bash)
+		(B) Suppose, if the client system uses Linux OS ??
+		(Using Terminal, because git commands supported by Linux).
+	15) Difference between Public & Private Keys in Github ??
+	16) 
+			
+
+	
